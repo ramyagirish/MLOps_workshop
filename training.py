@@ -6,3 +6,9 @@ print('Some random changes {1..5..1}')
 print('testing issues')
 
 print('closing the issues')print('Added the Hyperparameter Tuning to the training code')
+
+print('Hyperparameter Tuning Bayesian Optimization')
+
+print('Some random changes {1..5..1}')
+
+print('Hyperparameter Tuning Bayesian Optimization - Completed')
